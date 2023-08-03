@@ -36,22 +36,22 @@
   "redessociais":[
     {
       "id": 1,
-      "type": "tiktok",
+      "icon": "TiktokLogo",
       "url": "https://www.tiktok.com/@alinemezzaribrand"
     },
     {
       "id": 2,
-      "type": "instagram",
+      "icon": "InstagramLogo",
       "url": "https://www.instagram.com/alinemezzaribrand"
     },
     {
       "id": 3,
-      "type": "facebook",
+      "icon": "FacebookLogo",
       "url": "https://facebook.com/alinemezzaribrandoficial"
     },
     {
       "id": 4,
-      "type": "pinterest",
+      "icon": "PinterestLogo",
       "url": "https://br.pinterest.com/alinemezzaribrand"
     }
   ],
