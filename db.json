@@ -1,0 +1,65 @@
+{
+  "linksatacado": [
+    {
+      "id": 1,
+      "title": "Vendedora Flaviane",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998144534"
+    },
+    {
+      "id": 2,
+      "title": "Vendedora Tatiana",
+      "url": "https://wa.me/message/3E52CUYWXYH3F1"
+    },
+    {
+      "id": 3,
+      "title": "Keteryne (São Paulo - Bom Retiro)",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5511910599368"
+    },
+    {
+      "id": 4,
+      "title": "Ivone (São Paulo - Bom Retiro)",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5511920052394"
+    },
+    {
+      "id": 5,
+      "title": "Compras no Varejo",
+      "url": "https://www.estacaodamodastore.com.br"
+    }
+  ],
+  "perfil": [
+    {
+      "id": 1,
+      "title": "@alinemezzaribrand",
+      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/Aline-Mezzari-Brand-New.jpg"
+    }    
+  ],
+  "redessociais":[
+    {
+      "id": 1,
+      "type": "tiktok",
+      "url": "https://www.tiktok.com/@alinemezzaribrand"
+    },
+    {
+      "id": 2,
+      "type": "instagram",
+      "url": "https://www.instagram.com/alinemezzaribrand"
+    },
+    {
+      "id": 3,
+      "type": "facebook",
+      "url": "https://facebook.com/alinemezzaribrandoficial"
+    },
+    {
+      "id": 4,
+      "type": "pinterest",
+      "url": "https://br.pinterest.com/alinemezzaribrand"
+    }
+  ],
+  "dev": [
+    {
+      "id": 1,
+      "title": "By: Equipe Estação Store",
+      "url": "https://www.estacaodamodastore.com.br/"
+    }
+  ]
+}
