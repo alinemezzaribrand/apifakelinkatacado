@@ -37,22 +37,26 @@
     {
       "id": 1,
       "icon": "TiktokLogo",
-      "url": "https://www.tiktok.com/@alinemezzaribrand"
+      "url": "https://www.tiktok.com/@alinemezzaribrand",
+      "title": "Confira nossas novidades na tiktok"
     },
     {
       "id": 2,
       "icon": "InstagramLogo",
-      "url": "https://www.instagram.com/alinemezzaribrand"
+      "url": "https://www.instagram.com/alinemezzaribrand",
+      "title": "Acompanhe nossas novidades em nosso perfil no instagram"
     },
     {
       "id": 3,
       "icon": "FacebookLogo",
-      "url": "https://facebook.com/alinemezzaribrandoficial"
+      "url": "https://facebook.com/alinemezzaribrandoficial",
+      "title": "Siga nossa pagina no facebook"
     },
     {
       "id": 4,
       "icon": "PinterestLogo",
-      "url": "https://br.pinterest.com/alinemezzaribrand"
+      "url": "https://br.pinterest.com/alinemezzaribrand",
+      "title": "Confira nossas dicas, compartilhe e salve nossos pin no pinterest"
     }
   ],
   "dev": [
